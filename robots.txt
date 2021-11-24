@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: file:////Users/hyj/Documents/Publii/sites/la-isla-de-las-tentaciones/preview/sitemap.xml
+Sitemap: https://islatentaciones.tk/sitemap.xml
