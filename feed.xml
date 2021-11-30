@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2021-11-30T15:15:34+01:00</updated>
+    <updated>2021-11-30T15:22:55+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -18,17 +18,21 @@
         <id>https://islatentaciones.tk/programa-4.html</id>
             <category term="Programas"/>
 
-        <updated>2021-11-30T15:15:22+01:00</updated>
+        <updated>2021-11-30T15:22:55+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://islatentaciones.tk/media/posts/9/LIDLT_4_PLUS_d17d.jpeg" alt="" />
-                    SE ESTA PROCESANDO
+                    SE ESTA PROCESANDO 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://islatentaciones.tk/media/posts/9/LIDLT_4_PLUS_d17d.jpeg" alt="" />
                 <h2><strong>SE ESTA PROCESANDO</strong></h2>
+<div id="player"> </div>
+<script>
+    var player = new Clappr.Player({source: "http://islatentaciones.tk/programa.mp4", parentId: "#player"});
+  </script>
             ]]>
         </content>
     </entry>

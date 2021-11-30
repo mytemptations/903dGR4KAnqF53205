@@ -13,8 +13,8 @@
             "id": "https://islatentaciones.tk/programa-4.html",
             "url": "https://islatentaciones.tk/programa-4.html",
             "title": "Programa 4",
-            "summary": "SE ESTA PROCESANDO",
-            "content_html": "<h2><strong>SE ESTA PROCESANDO</strong></h2>",
+            "summary": "SE ESTA PROCESANDO ",
+            "content_html": "<h2><strong>SE ESTA PROCESANDO</strong></h2>\n<div id=\"player\"> </div>\n<script>\n    var player = new Clappr.Player({source: \"http://islatentaciones.tk/programa.mp4\", parentId: \"#player\"});\n  </script>",
             "image": "https://islatentaciones.tk/media/posts/9/LIDLT_4_PLUS_d17d.jpeg",
             "author": {
                 "name": "islatentaciones"
@@ -23,7 +23,7 @@
                    "Programas"
             ],
             "date_published": "2021-11-30T15:08:35+01:00",
-            "date_modified": "2021-11-30T15:15:22+01:00"
+            "date_modified": "2021-11-30T15:22:55+01:00"
         },
         {
             "id": "https://islatentaciones.tk/programas.html",
