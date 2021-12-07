@@ -3,12 +3,29 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2021-11-30T16:06:08+01:00</updated>
+    <updated>2021-12-07T15:22:54+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Programa 5</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/programa-5.html"/>
+        <id>https://islatentaciones.tk/programa-5.html</id>
+            <category term="Programas"/>
+
+        <updated>2021-12-07T15:22:45+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3834506709685" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 4</title>
         <author>
@@ -35,7 +52,7 @@
         <link href="https://islatentaciones.tk/programas.html"/>
         <id>https://islatentaciones.tk/programas.html</id>
 
-        <updated>2021-11-30T15:15:34+01:00</updated>
+        <updated>2021-12-07T15:22:54+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
