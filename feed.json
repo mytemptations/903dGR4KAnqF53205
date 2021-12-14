@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/programa-6.html",
+            "url": "https://islatentaciones.tk/programa-6.html",
+            "title": "Programa 6",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3822524566076\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.tk/media/posts/12/LIDLT_6PLUS_4bc2.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-14T15:05:50+01:00",
+            "date_modified": "2021-12-14T15:06:28+01:00"
+        },
+        {
+            "id": "https://islatentaciones.tk/debate-3.html",
+            "url": "https://islatentaciones.tk/debate-3.html",
+            "title": "Debate 3",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3822224280124\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.tk/media/posts/11/LIDLT_Debate3_b93c.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-14T14:14:25+01:00",
+            "date_modified": "2021-12-14T14:14:25+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/programa-5.html",
             "url": "https://islatentaciones.tk/programa-5.html",
             "title": "Programa 5",
@@ -43,14 +71,14 @@
             "id": "https://islatentaciones.tk/programas.html",
             "url": "https://islatentaciones.tk/programas.html",
             "title": "Programas",
-            "image": "https://islatentaciones.tk/media/posts/8/LIDLT_5_PLUS_89a1.jpg",
+            "image": "https://islatentaciones.tk/media/posts/8/LIDLT_6PLUS_4bc2.jpg",
             "author": {
                 "name": "islatentaciones"
             },
             "tags": [
             ],
             "date_published": "2021-11-24T14:52:58+01:00",
-            "date_modified": "2021-12-07T15:24:28+01:00"
+            "date_modified": "2021-12-14T15:06:02+01:00"
         },
         {
             "id": "https://islatentaciones.tk/debates.html",
@@ -124,36 +152,6 @@
             ],
             "date_published": "2021-11-24T14:30:17+01:00",
             "date_modified": "2021-11-30T01:56:14+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/programa-1.html",
-            "url": "https://islatentaciones.tk/programa-1.html",
-            "title": "Programa 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3575146678844\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.tk/media/posts/2/LIDLT_1_851f.jpeg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Programas"
-            ],
-            "date_published": "2021-11-24T14:29:27+01:00",
-            "date_modified": "2021-11-30T01:55:44+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/programa-1-2.html",
-            "url": "https://islatentaciones.tk/programa-1-2.html",
-            "title": "Programa 0",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3558891326012\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.tk/media/posts/1/laisladelastentaciones4_0PLUS_9a79.jpeg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Programas"
-            ],
-            "date_published": "2021-11-24T01:38:00+01:00",
-            "date_modified": "2021-11-24T14:35:28+01:00"
         }
     ]
 }
