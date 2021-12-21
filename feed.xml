@@ -3,12 +3,35 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2021-12-21T09:45:08+01:00</updated>
+    <updated>2021-12-21T15:21:41+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Programa 7</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/programa-7.html"/>
+        <id>https://islatentaciones.tk/programa-7.html</id>
+            <category term="Programas"/>
+
+        <updated>2021-12-21T15:21:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://islatentaciones.tk/media/posts/16/LIDLT_7PLUS_01a4.jpg" alt="" />
+                    PROCESANDO
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.tk/media/posts/16/LIDLT_7PLUS_01a4.jpg" alt="" />
+                <h2><strong>PROCESANDO</strong></h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 6</title>
         <author>
@@ -143,7 +166,7 @@
         <link href="https://islatentaciones.tk/programas.html"/>
         <id>https://islatentaciones.tk/programas.html</id>
 
-        <updated>2021-12-14T15:06:02+01:00</updated>
+        <updated>2021-12-21T15:21:41+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -158,23 +181,5 @@
         <updated>2021-12-21T09:35:17+01:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Debate 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.tk/debate-2.html"/>
-        <id>https://islatentaciones.tk/debate-2.html</id>
-            <category term="Debates"/>
-
-        <updated>2021-11-30T01:55:37+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.tk/media/posts/6/LIDLT_Debate2_e27e.jpeg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3631492958780" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
     </entry>
 </feed>
