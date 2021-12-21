@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate-6.html",
+            "url": "https://islatentaciones.tk/debate-6.html",
+            "title": "Debate 6",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3865553799740\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.tk/media/posts/15/LIDLT_Debate6_9149.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2021-12-21T09:35:03+01:00",
+            "date_modified": "2021-12-21T09:45:08+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/debate-5.html",
             "url": "https://islatentaciones.tk/debate-5.html",
             "title": "Debate 5",
@@ -22,7 +37,7 @@
                    "Debates"
             ],
             "date_published": "2021-12-17T05:30:45+01:00",
-            "date_modified": "2021-12-17T13:31:56+01:00"
+            "date_modified": "2021-12-21T09:35:25+01:00"
         },
         {
             "id": "https://islatentaciones.tk/debate-4.html",
@@ -116,13 +131,14 @@
             "id": "https://islatentaciones.tk/debates.html",
             "url": "https://islatentaciones.tk/debates.html",
             "title": "Debates",
+            "image": "https://islatentaciones.tk/media/posts/7/LIDLT_Debate6_9149.jpg",
             "author": {
                 "name": "islatentaciones"
             },
             "tags": [
             ],
             "date_published": "2021-11-24T14:52:48+01:00",
-            "date_modified": "2021-12-17T13:32:08+01:00"
+            "date_modified": "2021-12-21T09:35:17+01:00"
         },
         {
             "id": "https://islatentaciones.tk/debate-2.html",
@@ -138,21 +154,6 @@
             ],
             "date_published": "2021-11-24T14:38:22+01:00",
             "date_modified": "2021-11-30T01:55:37+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/debate-1.html",
-            "url": "https://islatentaciones.tk/debate-1.html",
-            "title": "Debate 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3619132869180\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://islatentaciones.tk/media/posts/5/LIDLT_Debate1_dde5.jpeg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Debates"
-            ],
-            "date_published": "2021-11-24T14:36:23+01:00",
-            "date_modified": "2021-11-30T01:55:15+01:00"
         }
     ]
 }
