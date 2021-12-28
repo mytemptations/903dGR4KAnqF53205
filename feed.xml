@@ -3,12 +3,35 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2021-12-21T15:28:24+01:00</updated>
+    <updated>2021-12-28T15:09:21+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Programa 8</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/programa-8.html"/>
+        <id>https://islatentaciones.tk/programa-8.html</id>
+            <category term="Programas"/>
+
+        <updated>2021-12-28T15:09:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://islatentaciones.tk/media/posts/17/LIDLT_8PLUS_d084.jpg" alt="" />
+                    PROCESANDO
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://islatentaciones.tk/media/posts/17/LIDLT_8PLUS_d084.jpg" alt="" />
+                <h2><strong>PROCESANDO</strong></h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 7</title>
         <author>
@@ -161,19 +184,7 @@
         <link href="https://islatentaciones.tk/programas.html"/>
         <id>https://islatentaciones.tk/programas.html</id>
 
-        <updated>2021-12-21T15:21:41+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Debates</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.tk/debates.html"/>
-        <id>https://islatentaciones.tk/debates.html</id>
-
-        <updated>2021-12-21T09:35:17+01:00</updated>
+        <updated>2021-12-28T15:08:37+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>

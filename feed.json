@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/programa-8.html",
+            "url": "https://islatentaciones.tk/programa-8.html",
+            "title": "Programa 8",
+            "summary": "PROCESANDO",
+            "content_html": "<h2><strong>PROCESANDO</strong></h2>",
+            "image": "https://islatentaciones.tk/media/posts/17/LIDLT_8PLUS_d084.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Programas"
+            ],
+            "date_published": "2021-12-28T15:08:59+01:00",
+            "date_modified": "2021-12-28T15:09:21+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/programa-7.html",
             "url": "https://islatentaciones.tk/programa-7.html",
             "title": "Programa 7",
@@ -133,27 +149,14 @@
             "id": "https://islatentaciones.tk/programas.html",
             "url": "https://islatentaciones.tk/programas.html",
             "title": "Programas",
-            "image": "https://islatentaciones.tk/media/posts/8/LIDLT_7PLUS_01a4.jpg",
+            "image": "https://islatentaciones.tk/media/posts/8/LIDLT_8PLUS_d084.jpg",
             "author": {
                 "name": "islatentaciones"
             },
             "tags": [
             ],
             "date_published": "2021-11-24T14:52:58+01:00",
-            "date_modified": "2021-12-21T15:21:41+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/debates.html",
-            "url": "https://islatentaciones.tk/debates.html",
-            "title": "Debates",
-            "image": "https://islatentaciones.tk/media/posts/7/LIDLT_Debate6_9149.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-11-24T14:52:48+01:00",
-            "date_modified": "2021-12-21T09:35:17+01:00"
+            "date_modified": "2021-12-28T15:08:37+01:00"
         }
     ]
 }
