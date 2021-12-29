@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate-7.html",
+            "url": "https://islatentaciones.tk/debate-7.html",
+            "title": "Debate 7",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3925423295036\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://islatentaciones.tk/media/posts/18/LIDLT_Debate7_62a8.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Debates"
+            ],
+            "date_published": "2021-12-29T04:01:33+01:00",
+            "date_modified": "2021-12-29T04:02:38+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/programa-8.html",
             "url": "https://islatentaciones.tk/programa-8.html",
             "title": "Programa 8",
@@ -143,19 +158,6 @@
             ],
             "date_published": "2021-11-30T15:08:35+01:00",
             "date_modified": "2021-11-30T16:06:08+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/programas.html",
-            "url": "https://islatentaciones.tk/programas.html",
-            "title": "Programas",
-            "image": "https://islatentaciones.tk/media/posts/8/LIDLT_8PLUS_d084.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-11-24T14:52:58+01:00",
-            "date_modified": "2021-12-28T15:08:37+01:00"
         }
     ]
 }
