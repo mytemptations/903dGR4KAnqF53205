@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-01-04T02:29:32+01:00</updated>
+    <updated>2022-01-04T02:46:25+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://islatentaciones.tk/programa-9.html</id>
             <category term="Programas"/>
 
-        <updated>2022-01-04T02:29:32+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://islatentaciones.tk/media/posts/19/LIDLT_9PLUS_1f48.jpg" alt="" />
-                    Procesando
-                ]]>
-            </summary>
+        <updated>2022-01-04T02:46:25+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://islatentaciones.tk/media/posts/19/LIDLT_9PLUS_1f48.jpg" alt="" />
-                <h2><strong>Procesando</strong></h2>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3953032694332" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
