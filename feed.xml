@@ -3,12 +3,29 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-01-04T02:46:25+01:00</updated>
+    <updated>2022-01-04T23:21:32+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Debate 8</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/debate-8.html"/>
+        <id>https://islatentaciones.tk/debate-8.html</id>
+            <category term="Debates"/>
+
+        <updated>2022-01-04T23:21:32+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3954240522812" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 9</title>
         <author>
@@ -168,24 +185,6 @@
             <![CDATA[
                     <img src="https://islatentaciones.tk/media/posts/11/LIDLT_Debate3_b93c.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3837942630972" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 5</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.tk/programa-5.html"/>
-        <id>https://islatentaciones.tk/programa-5.html</id>
-            <category term="Programas"/>
-
-        <updated>2021-12-07T16:22:44+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.tk/media/posts/10/LIDLT_5_PLUS_89a1-2.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3741808855612" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
